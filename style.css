@@ -1,0 +1,13 @@
+body {
+	font-family: 'Roboto', sans-serif ;
+	color: rgba(0,0,0,.5);
+	text-align: center;
+	letter-spacing: .3em;
+	text-transform: uppercase;
+	background: linear-gradient(to right, rgba(0,51,255), red);
+}
+
+h4 {
+	text-transform: lowercase;
+	letter-spacing: .1em;
+}
